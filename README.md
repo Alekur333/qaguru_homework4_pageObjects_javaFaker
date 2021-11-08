@@ -1,11 +1,9 @@
-# qaguru_home_work_1
+# qaguru_homework_4
 
-https://qa.guru/pl/teach/control/lesson/view?id=219025024&editMode=0
+https://qa.guru/pl/teach/control/lesson/view?id=219025030&editMode=0
 
-Зарегистрируйте аккаунт на https://github.com
+1. Возьмите ваш код написанный для формы в рамках ДЗ ко второму занятию https://demoqa.com/automation-practice-form
 
-Создайте новый проект для домашнего задания https://github.com/new
+2. Добавьте в ваш код PageObjects
 
-
-Разработайте автотест на проверку формы https://demoqa.com/automation-practice-form
-Запушьте код в свой репозиторий и дайте на него ссылку в качестве ответа на домашнее задание
+3. Добавьте в ваш код генерацию рандомных значений используя Java Faker
