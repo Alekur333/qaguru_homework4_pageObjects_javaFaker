@@ -15,7 +15,6 @@ public class TestData {
     public static String mobile = faker.phoneNumber().subscriberNumber(10);
     public static String subject = "comp";
     public static String fileToAttach = "files/filePath.png";
-//    File filePath = new File("src/test/resources/files/filePath.png");
     public static String currentAddress = faker.address().streetAddress();
     public static String state = "NCR";
     public static String city = "Delhi";

@@ -15,6 +15,7 @@ public class BasePage {
     public static void beforeTest() {
 
         Configuration.browserSize="1200x800";
+
     }
 
     @BeforeEach

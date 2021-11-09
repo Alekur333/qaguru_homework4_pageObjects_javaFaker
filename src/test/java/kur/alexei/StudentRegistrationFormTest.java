@@ -13,7 +13,7 @@ public class StudentRegistrationFormTest extends BasePage {
 
     @Test
     void studentRegistrationFormTest() {
-        registrationPage.shouldBeRegistrationForm();
+        registrationPage.fillRegistrationForm();
         registrationPage.finalTableShouldHaveData();
 
 
