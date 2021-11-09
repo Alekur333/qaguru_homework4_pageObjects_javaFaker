@@ -109,19 +109,5 @@ public class RegistrationPage {
         $(".table").$(byText("State and City")).sibling(0).
                 shouldHave(text(testData.state +" "+ testData.city));
 
-
-//        $(".table").shouldHave(
-//                text(testData.firstName),
-//                text(testData.lastName),
-//                text(testData.email),
-//                text("Male"),
-//                text(testData.mobile),
-//                text("30 March,1974"),
-//                text("Computer Science"),
-//                text("Music"),
-//                text("filePath.png"),
-//                text(testData.currentAddress),
-//                text(testData.state),
-//                text(testData.city));
     }
 }
